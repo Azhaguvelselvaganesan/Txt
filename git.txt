@@ -1,1 +1,2 @@
 My new Git learning
+learned git
